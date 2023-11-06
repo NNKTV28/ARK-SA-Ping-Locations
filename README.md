@@ -1,5 +1,5 @@
 # ARK-SA-Notes
-A script to ping all notes on Ark: Survival Ascended to the minimap
+A script to ping locations automatically on Ark: Survival Ascended to the minimap
 # How to use
 go to gameusersettings.ini after this section
 ```
@@ -10,3 +10,6 @@ paste the text in MINI_MAP_NOTES.txt and it will ping all notes to the screen
 # Updates
 New MINI_MAP_ARTIFACTS_AND_CAVES.txt file uploaded, it does basically the same as the MINI_MAP_NOTES.txt but for caves and artifacts, to implement it
 its the same method as shown above
+
+# Note
+None of the .txt files uploaded were made by me
